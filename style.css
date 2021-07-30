@@ -1,6 +1,6 @@
 /* universal tag */
 *{
-    font-family: 'Teko', sans-serif;
+    font-family: 'Teko', italic;
     box-sizing: border-box !important;
     margin:0;
     
@@ -58,7 +58,7 @@ img{
 }
 /* body tag */
 body{
-    background: teal;
+    background: slateblue;
   }
 
   /* the flame  */
