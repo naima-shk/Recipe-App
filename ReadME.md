@@ -4,7 +4,7 @@
 
 ## What does this app do?
 - This app has functionality of getting recipe titles based on a hardcoded search term.
-- This is a RecipeTreasure App that displays recipe titles fetched by an API.
+- This is a Recipe App that displays recipe titles fetched by an API.
 
 ## Technologies used:
 - HTML, CSS, JavaScript (for coding and implementation on UI)
