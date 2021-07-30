@@ -5,7 +5,7 @@
     margin:0;
     
 }
-/* h1 styling */
+
 h1{
    margin-left: 39%;
    color: white;
@@ -15,8 +15,8 @@ h1{
    
    
 }
-/* divs styling */
-#wrapper{
+
+#main-container{
     width:100%;
     display:flex;
     flex-wrap:wrap;
@@ -24,18 +24,18 @@ h1{
     align-items: center;
     margin: bottom 15px;
 }
-/* main div styling */
+
 .main{
     padding: 20px;
     border: transparent 1px rgb(255, 255, 255);
     margin:30px;
     border-radius: 20px;
     box-shadow: 0 0 20px 0 ;
-    background: linear-gradien (slateblue);  
+    background: linear-gradien (whitesmoke);  
     opacity:0.7;
 }
 
-/* hover effects */
+
 .main:hover{
     box-shadow: 0 0 20px 0  whitesmoke;
 }
@@ -52,8 +52,8 @@ img{
 /* title of recipes */
 .title {
     font-size: 24px;
-    color:black;
-    font-weight: bold;
+    color: black;
+    font-weight: italic;
         
 }
 /* body tag */

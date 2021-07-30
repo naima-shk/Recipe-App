@@ -16,14 +16,14 @@ return response.json();/*here the data of recipes we are getting in form of json
 // introducing function and giving the objects of data in arguments
 function recipeArray(obj){
 
-  let reciepes = obj.results;
+  let recepies = obj.results;
 
-  console.log(reciepes);
+  console.log(recepies);
 
-  console.log(typeof reciepes);
+  console.log(typeof recepies);
 
   // here using the map() function for printing the array of recipes
-  document.getElementById("wrapper").innerHTML =(reciepes.map(recipe => 
+  document.getElementById("main-container").innerHTML =(recepies.map(recipe => 
     `
     <div class="main">
       <div class="content">
