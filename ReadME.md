@@ -21,3 +21,4 @@ open index.html in your browser.
 https://github.com/naima-shk/Recipe-App
 
 ## Live Link:
+https://naima-shk.github.io/Recipe-App/
